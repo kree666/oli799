@@ -44,7 +44,7 @@
 
   
 [![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oli799&layout=compact&hide=jupyter%20notebook)](https://github.com/oli799?tab=repositories)
-[![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oli799&layout=compact&%20notebook)](https://github.com/oli799)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=oli799&count_private=true&show_icons=true)](https://github.com/oli799)
 
 
 [linkedin]: https://www.linkedin.com/in/oliv%C3%A9r-reider-112a70158/
